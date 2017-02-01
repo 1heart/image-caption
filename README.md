@@ -4,9 +4,6 @@ This is an implementation of an image captioning model in [Keras](keras.io), bas
 
 ### Image captioning
 
-![Image captioning](/img/captioning.jpg?raw=true "Image captioning")
-
-### Model visualization
-
-![Image model](/img/model.jpg?raw=true "Image model")
+![Image captioning](/img/captioning_1.png?raw=true "Image captioning")
+![Image captioning](/img/captioning_2.png?raw=true "Image captioning")
 
